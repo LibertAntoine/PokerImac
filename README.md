@@ -37,7 +37,7 @@ This project is an initiative resulting from a lecture about statistics and prob
 
 Realized in May 2020.
 
-[**More details... (FR)**](doc/rapport_MEMAP.pdf)
+[**More details... (FR)**](doc/Rapport_project.pdf)
 
 <p align="center">
 <img src="doc/readme-img/PokerImac2.png?raw=true" width="45%" alt="Screenshot">
