@@ -1,4 +1,4 @@
-# :station: PokerImac
+# :black_joker: PokerImac
 
 <p align="center">
 <img src="doc/readme-img/PokerImac.png?raw=true" width="100%" alt="PokerImac">
